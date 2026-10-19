@@ -1,0 +1,8 @@
+@prefix platcatalog: <https://w3id.org/cnr-ismar/platform-catalog/> .
+@prefix sosa:        <http://www.w3.org/ns/sosa/> .
+@prefix rdfs:        <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:        <http://www.w3.org/2004/02/skos/core#> .
+
+platcatalog:AAOT a sosa:Platform .
+platcatalog:AAOT rdfs:label "Acqua Alta Oceanographic Tower"@en .
+platcatalog:AAOT skos:altLabel "AAOT" .
